@@ -1,0 +1,20 @@
+
+---
+title: My Basic Title
+subtitle: My Important subtitle
+author:
+  - name: Brian McGarvey
+    affiliation: Marine Science Foundation
+    location: Portland, OR
+    email: bmcgarvey@marinesciencefoundation.org
+numbersections: yes
+lang: en
+abstract: |
+  This paper is a basic example with LaTeX and Markdown.
+
+header-includes: |
+  \usepackages{booktabs}
+
+...
+
+---
